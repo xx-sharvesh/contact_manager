@@ -54,4 +54,11 @@ Once the virtual environment is activated and all required modules are installed
 ```bash
 streamlit run app.py
 ```
+## Cloning the Repository
+To clone the Contact Manager System project from GitHub, use the following command:
 
+```bash
+git clone https://github.com/xx-sharvesh/contact_manager.git
+```
+
+This will clone the project repository to your local machine, allowing you to access the source code and files associated with the Contact Manager System.
