@@ -3,6 +3,16 @@
 ## Description
 The Contact Manager System is a simple application built using Streamlit and Pandas that allows users to manage their contacts efficiently. Users can add new contacts, search for existing contacts, edit contact details, and delete contacts. The application uses an Excel file (`contacts.xlsx`) to store contact information.
 
+
+## Cloning the Repository
+To clone the Contact Manager System project from GitHub, use the following command:
+
+```bash
+git clone https://github.com/xx-sharvesh/contact_manager.git
+```
+
+This will clone the project repository to your local machine, allowing you to access the source code and files associated with the Contact Manager System.
+
 ## Virtual Environment Setup
 
 ### 1. Create Virtual Environment
@@ -54,11 +64,3 @@ Once the virtual environment is activated and all required modules are installed
 ```bash
 streamlit run app.py
 ```
-## Cloning the Repository
-To clone the Contact Manager System project from GitHub, use the following command:
-
-```bash
-git clone https://github.com/xx-sharvesh/contact_manager.git
-```
-
-This will clone the project repository to your local machine, allowing you to access the source code and files associated with the Contact Manager System.
